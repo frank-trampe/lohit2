@@ -41,9 +41,9 @@
     <key>zero</key>
     <string>zero.glif</string>
     <key>one</key>
-    <string>one	.glif</string>
+    <string>one.glif</string>
     <key>two</key>
-    <string>two.glif</string>
+    <string>two.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>four</key>
@@ -51,7 +51,7 @@
     <key>five</key>
     <string>five.glif</string>
     <key>six</key>
-    <string>six.glif</string>
+    <string>six.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>eight</key>
@@ -71,7 +71,7 @@
     <key>question</key>
     <string>question.glif</string>
     <key>at</key>
-    <string>atn.glif</string>
+    <string>at.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
     <key>backslash</key>
@@ -87,7 +87,7 @@
     <key>braceleft</key>
     <string>braceleft.glif</string>
     <key>bar</key>
-    <string>bar.glif</string>
+    <string>bar.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
     <key>asciitilde</key>
