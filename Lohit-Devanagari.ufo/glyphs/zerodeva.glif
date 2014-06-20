@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerodeva" format="1">
+  <advance width="665"/>
+  <unicode hex="0966"/>
+  <outline>
+    <contour>
+      <point x="402" y="166"/>
+      <point x="499" y="264"/>
+      <point x="499" y="402"/>
+      <point x="402" y="499"/>
+      <point x="264" y="499"/>
+      <point x="166" y="402"/>
+      <point x="166" y="264"/>
+      <point x="264" y="166"/>
+    </contour>
+    <contour>
+      <point x="237" y="100"/>
+      <point x="100" y="237"/>
+      <point x="100" y="429"/>
+      <point x="237" y="566"/>
+      <point x="429" y="566"/>
+      <point x="566" y="429"/>
+      <point x="566" y="237"/>
+      <point x="429" y="100"/>
+    </contour>
+  </outline>
+  <lib/>
+</glyph>

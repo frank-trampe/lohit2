@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dddadeva" format="1">
+  <advance width="717"/>
+  <unicode hex="097E"/>
+  <outline>
+    <component xOffset="30"/>
+    <contour>
+      <point x="497" y="666" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="22" y="-60" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="668" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib/>
+</glyph>

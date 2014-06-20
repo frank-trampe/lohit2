@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isign_ra_virama_anusvara.alt1" format="1">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="-13" y="606" type="line"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="100" y="666" type="line"/>
+      <point x="91" y="678"/>
+      <point x="80" y="708"/>
+      <point x="80" y="726" type="qcurve" smooth="yes"/>
+      <point x="80" y="816"/>
+      <point x="230" y="945"/>
+      <point x="393" y="945" type="qcurve" smooth="yes"/>
+      <point x="538" y="945"/>
+      <point x="660.5" y="885" type="qcurve" smooth="yes"/>
+      <point x="729.868" y="851.024"/>
+      <point x="812.544" y="784.661" type="qcurve"/>
+      <point x="812" y="791.841"/>
+      <point x="812" y="799" type="qcurve" smooth="yes"/>
+      <point x="812" y="860"/>
+      <point x="895" y="945"/>
+      <point x="952" y="945" type="qcurve" smooth="yes"/>
+      <point x="983" y="945"/>
+      <point x="1027" y="939"/>
+      <point x="1039" y="932" type="qcurve"/>
+      <point x="1039" y="879" type="line"/>
+      <point x="1024" y="886"/>
+      <point x="981" y="892"/>
+      <point x="952" y="892" type="qcurve" smooth="yes"/>
+      <point x="921" y="892"/>
+      <point x="879" y="838"/>
+      <point x="879" y="799" type="qcurve" smooth="yes"/>
+      <point x="879" y="769.059"/>
+      <point x="898" y="730.5" type="qcurve" smooth="yes"/>
+      <point x="915" y="696"/>
+      <point x="947" y="664" type="qcurve"/>
+      <point x="867" y="664" type="line"/>
+      <point x="711.842" y="812.853"/>
+      <point x="602" y="852" type="qcurve" smooth="yes"/>
+      <point x="508" y="886"/>
+      <point x="403" y="886" type="qcurve" smooth="yes"/>
+      <point x="268" y="886"/>
+      <point x="146" y="792"/>
+      <point x="146" y="726" type="qcurve" smooth="yes"/>
+      <point x="146" y="708"/>
+      <point x="157" y="678"/>
+      <point x="166" y="666" type="qcurve"/>
+      <point x="280" y="666" type="line"/>
+      <point x="280" y="606" type="line"/>
+      <point x="166" y="606" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="749" type="line"/>
+      <point x="955" y="822" type="line"/>
+      <point x="1029" y="822" type="line"/>
+      <point x="1029" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib/>
+</glyph>
