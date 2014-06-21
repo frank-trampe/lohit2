@@ -3,8 +3,8 @@
   <advance width="768"/>
   <unicode hex="0972"/>
   <outline>
-    <component/>
-    <component xOffset="717"/>
+    <component base="adeva"/>
+    <component base="ecandrasigndeva" xOffset="717"/>
   </outline>
   <lib/>
 </glyph>

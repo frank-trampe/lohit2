@@ -3,7 +3,7 @@
   <advance width="728"/>
   <unicode hex="0979"/>
   <outline>
-    <component/>
+    <component base="jadeva"/>
     <contour>
       <point x="301" y="-189" type="line"/>
       <point x="248" y="-137" type="line"/>

@@ -3,7 +3,7 @@
   <advance width="765"/>
   <unicode hex="095E"/>
   <outline>
-    <component xOffset="1"/>
+    <component base="phadeva" xOffset="1"/>
     <contour>
       <point x="379" y="664" type="move" name="DVAnchor3"/>
     </contour>

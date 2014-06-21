@@ -2,7 +2,7 @@
 <glyph name="phadeva_radeva_nuktadeva" format="1">
   <advance width="794"/>
   <outline>
-    <component/>
+    <component base="phadeva_viramadeva_radeva"/>
     <contour>
       <point x="412" y="664" type="move" name="DVAnchor3"/>
     </contour>

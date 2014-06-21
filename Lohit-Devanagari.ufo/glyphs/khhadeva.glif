@@ -3,7 +3,7 @@
   <advance width="836"/>
   <unicode hex="0959"/>
   <outline>
-    <component/>
+    <component base="khadeva"/>
     <contour>
       <point x="707" y="664" type="move" name="DVAnchor3"/>
     </contour>

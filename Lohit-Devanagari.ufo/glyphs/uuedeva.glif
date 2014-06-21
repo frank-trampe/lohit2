@@ -3,8 +3,8 @@
   <advance width="768"/>
   <unicode hex="0977"/>
   <outline>
-    <component/>
-    <component xOffset="695"/>
+    <component base="adeva"/>
+    <component base="uuesigndeva" xOffset="695"/>
     <contour>
       <point x="640" y="711" type="move" name="DVAnchor0"/>
     </contour>
