@@ -1,11 +1,11 @@
 
+languagesystem DFLT dflt;
 languagesystem dev2 dflt;
 languagesystem dev2 MAR ;
 languagesystem dev2 NEP ;
 languagesystem deva dflt;
 languagesystem deva MAR ;
 languagesystem deva NEP ;
-languagesystem DFLT dflt;
 
 # GSUB 
 
