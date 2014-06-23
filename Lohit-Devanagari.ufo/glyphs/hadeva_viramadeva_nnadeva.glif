@@ -78,5 +78,7 @@
       <point x="453" y="180" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

@@ -90,5 +90,7 @@
       <point x="455" y="-100" type="qcurve"/>
     </contour>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

@@ -75,5 +75,7 @@
       <point x="247" y="606" type="move" smooth="yes"/>
     </contour>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

@@ -2,5 +2,7 @@
 <glyph name="space" format="1">
   <advance width="316"/>
   <unicode hex="0020"/>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

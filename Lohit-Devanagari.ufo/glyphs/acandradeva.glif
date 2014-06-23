@@ -6,5 +6,7 @@
     <component base="adeva"/>
     <component base="ecandrasigndeva" xOffset="717"/>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

@@ -72,5 +72,7 @@
       <point x="378" y="47"/>
     </contour>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>

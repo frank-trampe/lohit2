@@ -9,5 +9,7 @@
       <point x="640" y="711" type="move" name="DVAnchor0"/>
     </contour>
   </outline>
-  <lib/>
+  <lib>
+    <dict/>
+  </lib>
 </glyph>
