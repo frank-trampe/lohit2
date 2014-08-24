@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist>
+<plist version="1.0">
   <dict>
     <key>familyName</key>
     <string>Lohit Devanagari</string>
@@ -22,7 +22,7 @@ Sneha Kore &lt;skore At redhat DOT com&gt;
     <key>ascender</key>
     <integer>819</integer>
     <key>descender</key>
-    <integer>205</integer>
+    <integer>-205</integer>
     <key>italicAngle</key>
     <real>0</real>
     <key>note</key>
